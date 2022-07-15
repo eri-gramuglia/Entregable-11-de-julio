@@ -1,0 +1,55 @@
+body {
+  font-family: sans-serif;
+}
+
+.receta {
+  color: black;
+  text-align: center;
+  background-color: lavender;
+  height: 50px;
+  margin-block-start: 5px;
+  border: 4px;
+  border-style: solid;
+  border-color: black;
+}
+.ingredientes {
+  color: black;
+  background-color: thistle;
+  text-align: left;
+  height: 55vh;
+  width: 41vw;
+  display: inline-block;
+  margin-block-start: 5px;
+  border: 4px;
+  border-style: solid;
+  border-color: black;
+}
+li {
+  font-size: 1.5em;
+}
+.imagen {
+  color: black;
+  background-color: Plum;
+  height: 55vh;
+  width: 55vw;
+  display: inline-block;
+  float: right;
+  text-align: center;
+  margin-block-start: 5px;
+  border: 4px;
+  border-style: solid;
+  border-color: black;
+}
+img {
+  height: 40vh;
+}
+.procedimiento {
+  color: black;
+  background-color: Violet;
+  height: 246px;
+  text-align: justify;
+  margin-block-start: 5px;
+  border: 4px;
+  border-style: solid;
+  border-color: black;
+}
